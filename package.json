@@ -1,0 +1,48 @@
+{
+  "name": "shiina",
+  "version": "1.0.0",
+  "description": "Shina Discord JS v11.1 Bot",
+  "main": "bot.js",
+  "dependencies": {
+    "anilist-api-pt": "^1.0.0",
+    "colors": "^1.1.2",
+    "discord.js": "^11.1.0",
+    "djs-collection-persistent": "^0.1.3",
+    "mal-api": "^1.0.0",
+    "moment": "^2.18.1",
+    "moment-duration-format": "^1.3.0",
+    "request": "^2.81.0",
+    "snekfetch": "^3.1.11"
+  },
+  "devDependencies": {
+    "eslint": "^4.0.0",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-config-google": "^0.8.0",
+    "eslint-plugin-import": "^2.3.0"
+  },
+  "scripts": {
+    "test": "s!help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kashalls/Shiina.git"
+  },
+  "keywords": [
+    "shiina",
+    "is",
+    "awesome",
+    "and",
+    "slightly",
+    "better",
+    "than",
+    "your",
+    "bot",
+    "siaasbtyb"
+  ],
+  "author": "Kashall",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Kashalls/Shiina/issues"
+  },
+  "homepage": "https://github.com/Kashalls/Shiina#readme"
+}

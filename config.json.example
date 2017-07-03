@@ -1,0 +1,8 @@
+{
+    "prefix" : "s!",
+    "token" : "Insert Bot Token Here",
+    "ownerID" : "Use your USER ID here",
+    "MyAnimeListID" : "API List (Not Used)",
+    "MyAnimeListSecret" : "Same as the API List Token",
+    "vaingloryAPI" : "API KEY HERE"
+}

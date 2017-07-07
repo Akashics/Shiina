@@ -24,7 +24,7 @@ Once finished:
 
 - In the folder from where you ran the git command, run `cd Shiina` and then run `npm install`
 - Rename `config.json.example` to `config.json`
-- Edit `config.json` and enter your token and other details as indicated. It should look like this afterwards: 
+- Edit `config.json` and enter your token and other details as indicated.
 
 ## Getting Your Discord Token
 
